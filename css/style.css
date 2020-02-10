@@ -42,6 +42,9 @@
     transition: all 2s ease;
 }
 
+.ex-4-square:hover {
+    opacity: 0;
+}
 
 .ex-5-square {
     margin: 20px;
