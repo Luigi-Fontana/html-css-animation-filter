@@ -73,6 +73,11 @@
     filter: grayscale(1);
 }
 
+/* Esercizio 7 */
+.ex-7-img:hover {
+    filter: blur(1px) brightness(50%);
+}
+
 .ex-9-img {
     margin: 50px 100px;
     width: 400px;
