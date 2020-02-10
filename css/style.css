@@ -84,10 +84,19 @@
     border-radius: 20px;
 }
 
+/* Esercizio 9 */
 .ex-9-img {
     margin: 50px 100px;
     width: 400px;
+    transition: all 2s ease;
 }
+
+.ex-9-img:hover {
+    transform: scale(1.5);
+    filter: brightness(50%) sepia(80%);
+    border-radius: 20px;
+}
+
 .ex-10-icon {
     font-size: 60px;
 }
